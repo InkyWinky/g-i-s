@@ -3,7 +3,8 @@ var cheerio = require('cheerio');
 var queryString = require('querystring');
 var flatten = require('lodash.flatten');
 const proxy1 = "http://localhost:4000/";
-var baseURL = 'http://images.google.com/search?';
+cosnt proxy2 = "http://kamylla.uas:4000/";
+var baseURL = proxy1 + 'http://images.google.com/search?';
 
 var imageFileExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'];
 
