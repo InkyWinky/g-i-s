@@ -1,5 +1,6 @@
 g-i-s
 =====
+This repository was forked to adapt to my Kamylla inventory management application. It allows users to see the images of the items that they borrow/return in the Kamylla app by leveraging Google Image Search. 
 
 [![Build Status](https://travis-ci.org/jimkang/g-i-s.svg?branch=master)](https://travis-ci.org/jimkang/g-i-s)
 
